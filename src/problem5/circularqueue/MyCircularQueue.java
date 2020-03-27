@@ -33,6 +33,14 @@ public class MyCircularQueue {
         }
     }
 
+    public Node getRear() {
+        return rear;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
     private boolean isEmpty() {
         boolean response = false;
         if (rear == null)
