@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585290677469</updated>
-      <workItem from="1585290685977" duration="1017000" />
+      <workItem from="1585290685977" duration="1268000" />
     </task>
     <task id="LOCAL-00001" summary="class created : Student">
       <created>1585294168218</created>
@@ -154,7 +153,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585296062051</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="condition added when front is null">
+      <created>1585296493309</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296493309</updated>
+    </task>
+    <task id="LOCAL-00017" summary="else condition added">
+      <created>1585296615767</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296615767</updated>
+    </task>
+    <task id="LOCAL-00018" summary="method added : Main">
+      <created>1585296660938</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296660938</updated>
+    </task>
+    <task id="LOCAL-00019" summary="object created : MyPriorityQueue">
+      <created>1585296705808</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296705808</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +204,11 @@
     <MESSAGE value="method added : show" />
     <MESSAGE value="method added : enqueue" />
     <MESSAGE value="object created : Node class" />
-    <option name="LAST_COMMIT_MESSAGE" value="object created : Node class" />
+    <MESSAGE value="condition added when front is null" />
+    <MESSAGE value="else condition added" />
+    <MESSAGE value="method added : Main" />
+    <MESSAGE value="object created : MyPriorityQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="object created : MyPriorityQueue" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -187,10 +218,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585294468414" />
-    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585296660755">
+    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585296705620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585296660755" />
+    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585296705620" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585290686172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
