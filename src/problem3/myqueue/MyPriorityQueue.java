@@ -6,6 +6,7 @@
  */
 package problem3.myqueue;
 
+import problem3.Student;
 import problem3.node.Node;
 
 public class MyPriorityQueue {
@@ -17,6 +18,10 @@ public class MyPriorityQueue {
         rear = null;
         front = null;
         size = 0;
+    }
+
+    public void enqueue(Student data) {
+
     }
 
     public void show() {
