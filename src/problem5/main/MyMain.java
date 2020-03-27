@@ -7,6 +7,7 @@
 package problem5.main;
 
 import problem5.circularqueue.MyCircularQueue;
+import problem5.node.Node;
 import problem5.student.Student;
 
 import java.util.Scanner;
@@ -29,5 +30,22 @@ public class MyMain {
             Student student = new Student(s, b);
             myCircularQueue.enqueue(student);
         }
+
+        System.out.println(myCircularQueue.getSize());
+        finalQ();
+        System.out.println(size - finalQ());
+    }
+
+    public static int finalQ() {
+        int k = 0;
+        MyCircularQueue myCircularQueue = new MyCircularQueue();
+        Node temp = myCircularQueue.getRear().getNext();
+        while (temp != myCircularQueue.getRear()) {
+            if (temp.getData().getBacklogCount() == 0) {
+                myCircularQueue.dequeue();
+                k++;
+            }
+        }
+        return k;
     }
 }
