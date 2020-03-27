@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585290677469</updated>
-      <workItem from="1585290685977" duration="1268000" />
+      <workItem from="1585290685977" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="class created : Student">
       <created>1585294168218</created>
@@ -207,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585296705808</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="main method completed">
+      <created>1585296803475</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296803475</updated>
+    </task>
+    <task id="LOCAL-00021" summary="modified">
+      <created>1585296903664</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296903664</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +249,9 @@
     <MESSAGE value="else condition added" />
     <MESSAGE value="method added : Main" />
     <MESSAGE value="object created : MyPriorityQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="object created : MyPriorityQueue" />
+    <MESSAGE value="main method completed" />
+    <MESSAGE value="modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -244,10 +261,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585294468414" />
-    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585296803317">
+    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585296903439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585296803317" />
+    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585296903439" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585296881686">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -264,6 +281,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585296881686" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1585296916567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585296916567" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585290686172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
