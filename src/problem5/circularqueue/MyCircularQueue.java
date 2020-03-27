@@ -32,4 +32,11 @@ public class MyCircularQueue {
             size++;
         }
     }
+
+    private boolean isEmpty() {
+        boolean response = false;
+        if (rear == null)
+            response = true;
+        return response;
+    }
 }
