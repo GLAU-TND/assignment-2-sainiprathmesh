@@ -18,4 +18,8 @@ public class MyPriorityQueue {
         front = null;
         size = 0;
     }
+
+    public void peek() {
+        System.out.println(front.getData());
+    }
 }
