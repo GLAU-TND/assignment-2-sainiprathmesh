@@ -19,6 +19,14 @@ public class MyPriorityQueue {
         size = 0;
     }
 
+    public void show() {
+        Node temp = front;
+        while (temp != null) {
+            System.out.println(temp.getData());
+            temp = temp.getNext();
+        }
+    }
+
     public void peek() {
         System.out.println(front.getData());
     }
