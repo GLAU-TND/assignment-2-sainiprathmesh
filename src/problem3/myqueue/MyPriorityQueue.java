@@ -21,7 +21,7 @@ public class MyPriorityQueue {
     }
 
     public void enqueue(Student data) {
-
+        Node node = new Node(data);
     }
 
     public void show() {
