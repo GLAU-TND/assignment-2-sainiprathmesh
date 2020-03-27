@@ -20,6 +20,7 @@ public class MyCircularQueue {
     }
 
     public void enqueue(Student data) {
+        Node node = new Node(data);
 
     }
 }
