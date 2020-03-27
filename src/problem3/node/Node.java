@@ -12,4 +12,8 @@ public class Node {
     private Student data;
     private Node next;
 
+    public Node(Student d) {
+        data = d;
+        next = null;
+    }
 }
