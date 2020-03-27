@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="" />
+    <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585290677469</updated>
-      <workItem from="1585290685977" duration="1797000" />
+      <workItem from="1585290685977" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="class created : Student">
       <created>1585294168218</created>
@@ -268,7 +270,56 @@
       <option name="project" value="LOCAL" />
       <updated>1585297238827</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="constructor created">
+      <created>1585297256417</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297256417</updated>
+    </task>
+    <task id="LOCAL-00030" summary="method created : enqueue">
+      <created>1585297288970</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297288970</updated>
+    </task>
+    <task id="LOCAL-00031" summary="object created for Node class">
+      <created>1585297318240</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297318240</updated>
+    </task>
+    <task id="LOCAL-00032" summary="method completed : enqueue">
+      <created>1585297358163</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297358163</updated>
+    </task>
+    <task id="LOCAL-00033" summary="method added isEmpty">
+      <created>1585297385233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297385233</updated>
+    </task>
+    <task id="LOCAL-00034" summary="getter added for rear and size">
+      <created>1585297447857</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297447857</updated>
+    </task>
+    <task id="LOCAL-00035" summary="method added : dequeue">
+      <created>1585297479714</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297479714</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,12 +327,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="constructor created : Student()" />
-    <MESSAGE value="getter ans setter for all the field" />
-    <MESSAGE value="toString method added" />
-    <MESSAGE value="field created data, next" />
-    <MESSAGE value="constructor created : Node()" />
-    <MESSAGE value="getter and setter for all the field" />
     <MESSAGE value="method added compareTo" />
     <MESSAGE value="field created : front, rear and size" />
     <MESSAGE value="constructor created : MyPriorityQueue" />
@@ -298,10 +343,16 @@
     <MESSAGE value="field created : backlogCount, studentName" />
     <MESSAGE value="getter and setter created for all the field" />
     <MESSAGE value="fields created : data and next" />
-    <MESSAGE value="constructor created" />
     <MESSAGE value="getter and setter defined for all the fields" />
     <MESSAGE value="fields created : rear and size" />
-    <option name="LAST_COMMIT_MESSAGE" value="fields created : rear and size" />
+    <MESSAGE value="constructor created" />
+    <MESSAGE value="method created : enqueue" />
+    <MESSAGE value="object created for Node class" />
+    <MESSAGE value="method completed : enqueue" />
+    <MESSAGE value="method added isEmpty" />
+    <MESSAGE value="getter added for rear and size" />
+    <MESSAGE value="method added : dequeue" />
+    <option name="LAST_COMMIT_MESSAGE" value="method added : dequeue" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -311,10 +362,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585297169657" />
-    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585297447570">
+    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585297479530">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585297447570" />
+    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585297479530" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1585297433149">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
