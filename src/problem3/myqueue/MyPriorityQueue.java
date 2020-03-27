@@ -12,4 +12,10 @@ public class MyPriorityQueue {
     private Node rear;
     private Node front;
     private int size;
+
+    public MyPriorityQueue() {
+        rear = null;
+        front = null;
+        size = 0;
+    }
 }
