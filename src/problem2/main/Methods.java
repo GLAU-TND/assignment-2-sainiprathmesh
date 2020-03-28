@@ -16,4 +16,20 @@ public class Methods {
         pre = new MyQueue();
         post = new MyQueue();
     }
+
+    public MyQueue getPre() {
+        return pre;
+    }
+
+    public void setPre(MyQueue pre) {
+        this.pre = pre;
+    }
+
+    public MyQueue getPost() {
+        return post;
+    }
+
+    public void setPost(MyQueue post) {
+        this.post = post;
+    }
 }
