@@ -6,5 +6,9 @@
  */
 package problem2.main;
 
+import problem4.myqueue.MyQueue;
+
 public class Methods {
+    private MyQueue pre, post;
+
 }
