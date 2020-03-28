@@ -66,4 +66,17 @@ public class MyQueue {
         queue.tmp = queue.front;
     }
 
+    public void enqueue(Node node) {
+
+        if (front == null) {
+            tmp = front = end = node;
+        } else {
+            while (tmp.getNext() != null) {
+                tmp = tmp.getNext();
+            }
+            end = node;
+            tmp.setNext(node);
+            tmp = front;
+        }
+    }
 }
