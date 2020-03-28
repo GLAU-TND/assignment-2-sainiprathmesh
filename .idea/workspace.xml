@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
-    </list>
+    <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,42 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585290677469</updated>
-      <workItem from="1585290685977" duration="4224000" />
-    </task>
-    <task id="LOCAL-00004" summary="getter ans setter for all the field">
-      <created>1585294329366</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1585294329366</updated>
-    </task>
-    <task id="LOCAL-00005" summary="toString method added">
-      <created>1585294355597</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585294355597</updated>
-    </task>
-    <task id="LOCAL-00006" summary="field created data, next">
-      <created>1585294431733</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1585294431733</updated>
-    </task>
-    <task id="LOCAL-00007" summary="constructor created : Node()">
-      <created>1585294458013</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1585294458013</updated>
-    </task>
-    <task id="LOCAL-00008" summary="getter and setter for all the field">
-      <created>1585294482961</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1585294482961</updated>
+      <workItem from="1585290685977" duration="4474000" />
     </task>
     <task id="LOCAL-00009" summary="method added compareTo">
       <created>1585294509292</created>
@@ -432,7 +394,42 @@
       <option name="project" value="LOCAL" />
       <updated>1585396932247</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="method added : enqueue">
+      <created>1585396952294</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396952294</updated>
+    </task>
+    <task id="LOCAL-00054" summary="method added : getSuccessor">
+      <created>1585396980256</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396980256</updated>
+    </task>
+    <task id="LOCAL-00055" summary="main method added">
+      <created>1585397026169</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397026169</updated>
+    </task>
+    <task id="LOCAL-00056" summary="class created : Methods">
+      <created>1585397153335</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397153335</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fields created : pre and post">
+      <created>1585397192967</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397192967</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,11 +437,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="main method completed" />
-    <MESSAGE value="modified" />
-    <MESSAGE value="field created : backlogCount, studentName" />
-    <MESSAGE value="fields created : data and next" />
-    <MESSAGE value="getter and setter defined for all the fields" />
     <MESSAGE value="fields created : rear and size" />
     <MESSAGE value="method created : enqueue" />
     <MESSAGE value="object created for Node class" />
@@ -465,7 +457,12 @@
     <MESSAGE value="getter and setter created for all the field" />
     <MESSAGE value="method modified : getSize" />
     <MESSAGE value="method added : queuePrint" />
-    <option name="LAST_COMMIT_MESSAGE" value="method added : queuePrint" />
+    <MESSAGE value="method added : enqueue" />
+    <MESSAGE value="method added : getSuccessor" />
+    <MESSAGE value="main method added" />
+    <MESSAGE value="class created : Methods" />
+    <MESSAGE value="fields created : pre and post" />
+    <option name="LAST_COMMIT_MESSAGE" value="fields created : pre and post" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -475,10 +472,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585396822512" />
-    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585397153174">
+    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585397192823">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585397153174" />
+    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585397192823" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1585297433149">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
