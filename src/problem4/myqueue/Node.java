@@ -12,4 +12,13 @@ public class Node {
     private TreeNode node;
     private Node next;
 
+    public Node() {
+        node = new TreeNode();
+        next = null;
+    }
+
+    public Node(TreeNode treenode) {
+        node = treenode;
+        next = null;
+    }
 }
