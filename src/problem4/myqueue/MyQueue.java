@@ -42,11 +42,18 @@ public class MyQueue {
         this.tmp = tmp;
     }
 
-    public int getSize() {
+    public int getSize(MyQueue queue) {
+        size = 0;
+        while (queue.front != null) {
+            ++size;
+            queue.setFront(queue.front.getNext());
+        }
+        queue.setFront(queue.getTmp());
         return size;
     }
 
     public void setSize(int size) {
         this.size = size;
     }
+
 }
