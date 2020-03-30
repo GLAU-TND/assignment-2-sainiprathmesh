@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/main/MyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/mybst/MyBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/mybst/MyBinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/node/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem1/node/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem2/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem2/main/MyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem4/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem4/main/MyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem4/myqueue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-sainiprathmesh/problem4/myqueue/MyQueue.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZhUAXZq3NW1eEpTtSl1hspGwmF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.MyMain (4)">
+    <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem5.main.MyMain" />
+      <module name="assignment-2-sainiprathmesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem5.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
+      <module name="assignment-2-sainiprathmesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2.main.MyMain" />
+      <module name="assignment-2-sainiprathmesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem2.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem4.main.MyMain" />
+      <module name="assignment-2-sainiprathmesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem4.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
+      <module name="assignment-2-sainiprathmesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMain (4)" />
+        <item itemvalue="Application.MyMain (3)" />
+        <item itemvalue="Application.MyMain (2)" />
+        <item itemvalue="Application.MyMain (1)" />
+        <item itemvalue="Application.MyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b3ef44-d54c-4bf8-9abc-805caf2483e1" name="Default Changelist" comment="" />
+      <created>1585290677469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585290677469</updated>
+      <workItem from="1585290685977" duration="5003000" />
+    </task>
+    <task id="LOCAL-00015" summary="object created : Node class">
+      <created>1585296062051</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296062051</updated>
+    </task>
+    <task id="LOCAL-00016" summary="condition added when front is null">
+      <created>1585296493309</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296493309</updated>
+    </task>
+    <task id="LOCAL-00017" summary="else condition added">
+      <created>1585296615767</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296615767</updated>
+    </task>
+    <task id="LOCAL-00018" summary="method added : Main">
+      <created>1585296660938</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296660938</updated>
+    </task>
+    <task id="LOCAL-00019" summary="object created : MyPriorityQueue">
+      <created>1585296705808</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296705808</updated>
+    </task>
+    <task id="LOCAL-00020" summary="main method completed">
+      <created>1585296803475</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296803475</updated>
+    </task>
+    <task id="LOCAL-00021" summary="modified">
+      <created>1585296903664</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585296903664</updated>
+    </task>
+    <task id="LOCAL-00022" summary="field created : backlogCount, studentName">
+      <created>1585297037327</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297037327</updated>
+    </task>
+    <task id="LOCAL-00023" summary="constructor created">
+      <created>1585297060033</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297060033</updated>
+    </task>
+    <task id="LOCAL-00024" summary="getter and setter created for all the field">
+      <created>1585297085257</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297085257</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fields created : data and next">
+      <created>1585297140330</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297140330</updated>
+    </task>
+    <task id="LOCAL-00026" summary="constructor created">
+      <created>1585297158383</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297158383</updated>
+    </task>
+    <task id="LOCAL-00027" summary="getter and setter defined for all the fields">
+      <created>1585297184328</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297184328</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fields created : rear and size">
+      <created>1585297238827</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297238827</updated>
+    </task>
+    <task id="LOCAL-00029" summary="constructor created">
+      <created>1585297256417</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297256417</updated>
+    </task>
+    <task id="LOCAL-00030" summary="method created : enqueue">
+      <created>1585297288970</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297288970</updated>
+    </task>
+    <task id="LOCAL-00031" summary="object created for Node class">
+      <created>1585297318240</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297318240</updated>
+    </task>
+    <task id="LOCAL-00032" summary="method completed : enqueue">
+      <created>1585297358163</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297358163</updated>
+    </task>
+    <task id="LOCAL-00033" summary="method added isEmpty">
+      <created>1585297385233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297385233</updated>
+    </task>
+    <task id="LOCAL-00034" summary="getter added for rear and size">
+      <created>1585297447857</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297447857</updated>
+    </task>
+    <task id="LOCAL-00035" summary="method added : dequeue">
+      <created>1585297479714</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297479714</updated>
+    </task>
+    <task id="LOCAL-00036" summary="method finished : peek">
+      <created>1585297499735</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1585297499735</updated>
+    </task>
+    <task id="LOCAL-00037" summary="method created : Main">
+      <created>1585298583313</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298583313</updated>
+    </task>
+    <task id="LOCAL-00038" summary="object creation and variable decleration">
+      <created>1585298638849</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298638849</updated>
+    </task>
+    <task id="LOCAL-00039" summary="input taken using loop">
+      <created>1585298685020</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298685020</updated>
+    </task>
+    <task id="LOCAL-00040" summary="method added : finalQ">
+      <created>1585298743387</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298743387</updated>
+    </task>
+    <task id="LOCAL-00041" summary="field added left, right and data">
+      <created>1585396480300</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396480300</updated>
+    </task>
+    <task id="LOCAL-00042" summary="constructor created">
+      <created>1585396516445</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396516445</updated>
+    </task>
+    <task id="LOCAL-00043" summary="getter and setter created for all the field">
+      <created>1585396546164</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396546164</updated>
+    </task>
+    <task id="LOCAL-00044" summary="class created : Node">
+      <created>1585396640786</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396640786</updated>
+    </task>
+    <task id="LOCAL-00045" summary="field created : node and next">
+      <created>1585396684206</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396684206</updated>
+    </task>
+    <task id="LOCAL-00046" summary="constructor created">
+      <created>1585396711479</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396711479</updated>
+    </task>
+    <task id="LOCAL-00047" summary="getter and setter created for all the field">
+      <created>1585396733069</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396733069</updated>
+    </task>
+    <task id="LOCAL-00048" summary="field created : front, end, tmp and size">
+      <created>1585396777431</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396777432</updated>
+    </task>
+    <task id="LOCAL-00049" summary="constructor created">
+      <created>1585396794553</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396794553</updated>
+    </task>
+    <task id="LOCAL-00050" summary="getter and setter created for all the field">
+      <created>1585396852327</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396852328</updated>
+    </task>
+    <task id="LOCAL-00051" summary="method modified : getSize">
+      <created>1585396897824</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396897824</updated>
+    </task>
+    <task id="LOCAL-00052" summary="method added : queuePrint">
+      <created>1585396932247</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396932247</updated>
+    </task>
+    <task id="LOCAL-00053" summary="method added : enqueue">
+      <created>1585396952294</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396952294</updated>
+    </task>
+    <task id="LOCAL-00054" summary="method added : getSuccessor">
+      <created>1585396980256</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396980256</updated>
+    </task>
+    <task id="LOCAL-00055" summary="main method added">
+      <created>1585397026169</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397026169</updated>
+    </task>
+    <task id="LOCAL-00056" summary="class created : Methods">
+      <created>1585397153335</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397153335</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fields created : pre and post">
+      <created>1585397192967</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397192967</updated>
+    </task>
+    <task id="LOCAL-00058" summary="constructor created">
+      <created>1585397230945</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397230945</updated>
+    </task>
+    <task id="LOCAL-00059" summary="getter and setter created for all the field">
+      <created>1585397262834</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397262834</updated>
+    </task>
+    <task id="LOCAL-00060" summary="helper methods created">
+      <created>1585397398619</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397398619</updated>
+    </task>
+    <task id="LOCAL-00061" summary="main method added">
+      <created>1585397431724</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397431724</updated>
+    </task>
+    <task id="LOCAL-00062" summary="class completed">
+      <created>1585397564198</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397564198</updated>
+    </task>
+    <task id="LOCAL-00063" summary="main class completed">
+      <created>1585397641720</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397641720</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="method completed : enqueue" />
+    <MESSAGE value="method added isEmpty" />
+    <MESSAGE value="getter added for rear and size" />
+    <MESSAGE value="method added : dequeue" />
+    <MESSAGE value="method finished : peek" />
+    <MESSAGE value="method created : Main" />
+    <MESSAGE value="object creation and variable decleration" />
+    <MESSAGE value="input taken using loop" />
+    <MESSAGE value="method added : finalQ" />
+    <MESSAGE value="field added left, right and data" />
+    <MESSAGE value="class created : Node" />
+    <MESSAGE value="field created : node and next" />
+    <MESSAGE value="field created : front, end, tmp and size" />
+    <MESSAGE value="method modified : getSize" />
+    <MESSAGE value="method added : queuePrint" />
+    <MESSAGE value="method added : enqueue" />
+    <MESSAGE value="method added : getSuccessor" />
+    <MESSAGE value="class created : Methods" />
+    <MESSAGE value="fields created : pre and post" />
+    <MESSAGE value="constructor created" />
+    <MESSAGE value="getter and setter created for all the field" />
+    <MESSAGE value="helper methods created" />
+    <MESSAGE value="main method added" />
+    <MESSAGE value="class completed" />
+    <MESSAGE value="main class completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class completed" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1585397245081">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585397245081" />
+    <state x="249" y="52" key="CommitChangelistDialog2" timestamp="1585397641578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="249" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585397641578" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1585297433149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1585297433149" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585397787333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585397787333" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585397787328">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585397787328" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585397787326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585397787326" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585397787331">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585397787331" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1585298797816">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585298797816" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585290686172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585290686172" />
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585294286626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585294286626" />
+  </component>
+</project>
